@@ -344,15 +344,15 @@ P(id="d-1983-03-26-mary-williams", outlet="william-buckler", date="1983-03-26", 
                  cite="Cutting, newspaper not identified; reports the eviction attempt of 29 April 1988 (a BP PLC spokesman, London). Legal Wiki EV-0089 · GHF-E090-N07.", links=[("EV-0089","@EV-0089"),("The full post","n/n-1988-04-30-chainsaw.html")], subs=True)],
   shares=["unidentified"], recon=True,
   source=dict(cite="GRO death index, March quarter 1983, South Glamorgan 28/3029, indexed under both BUCKLER and WILLIAMS, Mary Doreen (FreeBMD transcription). Legal Wiki EV-0067.", ev="EV-0067", links=[("EV-0067","@EV-0067"),("Legal Wiki timeline","https://greathousefarmwiki.wordpress.com/two-mary-bucklers-name-identity-timeline/")]))
-P(id="d-1990-william-buckler", outlet="williams-buckler-family", date="1990-04-29", when="29 April 1990 (probate calendar) or the week to 2 June 1990 (South Wales Echo)", dt="1990", kind="announcement",
+P(id="d-1990-william-buckler", outlet="williams-buckler-family", date="1990-04-29", when="29 April 1990 (probate calendar)", dt="1990", kind="announcement",
   headline="William (Billy) Buckler",
   body=["The Williams / Buckler family announces the passing of William (Billy) Buckler, formerly of Great House Farm, Llandough.",
-        "The probate calendar gives his death as 29 April 1990; the South Wales Echo of 2 June 1990 reported that he “died suddenly this week”. The two do not agree, and both are shown."],
+        "The probate calendar gives his death as 29 April 1990; the South Wales Echo of 2 June 1990 reported that he “died suddenly this week”. The probate calendar date, 29 April 1990, is the date of death. The newspaper’s “this week” wording is search-result text only; the full page has not been read."],
   comments=[dict(who="south-wales-echo", when="2 June 1990", label="Search-result text, p.2", text="[FARMER] Billy died suddenly this week … [when] travelling through the area he made a detour around Llandough so never had to pass the site of Great House Farm",
                  flag="Search-result text (OCR) only; square brackets mark words the OCR garbles. The full page has not been read.",
                  cite="South Wales Echo, Saturday 2 June 1990, p.2. British Newspaper Archive search-result text. Legal Wiki EV-0290.", links=[("EV-0290","@EV-0290")])],
   shares=["south-wales-echo"], recon=True,
-  source=dict(cite="Probate calendar 1991: “BUCKLER, William Beverley … of [Penarth] S Glam died 29 April 1990”, administration Llandaff 11 July 1991 (a probable match; EV-0274). South Wales Echo, 2 June 1990, p.2 (EV-0290).", ev="EV-0290", links=[("EV-0274","@EV-0274"),("EV-0290","@EV-0290")]))
+  source=dict(cite="Probate calendar 1991: “BUCKLER, William Beverley … of [Penarth] S Glam died 29 April 1990”, administration Llandaff 11 July 1991 (EV-0274). South Wales Echo, 2 June 1990, p.2 (EV-0290).", ev="EV-0290", links=[("EV-0274","@EV-0274"),("EV-0290","@EV-0290")]))
 
 # ---------- decade-sweep sync, 21 Oct 2026 ----------
 P(id="n-1889-08-16-orchard", outlet="barry-dock-news", date="1889-08-16", when="16 August 1889", kind="article", headline="A Batch of Orchard Looters at Llandough",
